@@ -1,0 +1,12 @@
+# Ignore Visual Studio temporary files, build results, and
+# sensitive user-specific files
+.vs/
+*.vscode/
+*.user
+*.suo
+*.cache
+*.pdb
+*.obj
+bin/
+obj/
+*.log
